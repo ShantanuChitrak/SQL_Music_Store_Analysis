@@ -5,4 +5,5 @@ This project used SQL to analyze data and answer business questions. The SQL que
 Database and Tools
 
 > PostgreSQL
+
 > PgAdmin4
