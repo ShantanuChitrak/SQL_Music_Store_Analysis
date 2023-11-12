@@ -10,4 +10,6 @@ Database and Tools
 
 
 Schema- Music Store Database
+
+
 ![image](https://github.com/ShantanuChitrak/SQL_Music_Store_Analysis/assets/82925442/31149fb0-ad67-417b-acbc-69f9aeff3add)
